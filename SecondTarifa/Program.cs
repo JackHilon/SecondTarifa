@@ -6,6 +6,7 @@ namespace SecondTarifa
     {
         static void Main(string[] args)
         {
+
             // https://open.kattis.com/problems/tarifa
 
             var first = int.Parse(Console.ReadLine());
